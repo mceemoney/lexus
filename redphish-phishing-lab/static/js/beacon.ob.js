@@ -1,0 +1,1 @@
+# beacon.ob.js
